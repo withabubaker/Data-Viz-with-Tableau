@@ -7,10 +7,10 @@ This project aims to visualize and analyze Airbnb data in NYC.
      - Predict the growth of hosts in two years
 
 ## Process
-1- Download the dataset from the internet.
-2- Try to understand the relation between the features and average price, by virtualizing each feature and average price.
-3- Use the analysis feature in Tableau to build two years prediction and regression model.
-4- create the dashboard that contains all the virtualizations and publish it here https://public.tableau.com/app/profile/mohammed.abubaker/viz/LHL_Project/Dashboard1?publish=yes
+1. Download the dataset from the internet.
+1. Try to understand the relation between the features and average price, by virtualizing each feature and average price.
+1. Use the analysis feature in Tableau to build two years prediction and regression model.
+1. create the dashboard that contains all the virtualizations and publish it here https://public.tableau.com/app/profile/mohammed.abubaker/viz/LHL_Project/Dashboard1?publish=yes
 
 ## Results
 
